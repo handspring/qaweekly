@@ -8,7 +8,7 @@ QA周刊分类整理-201508<br />
 [测试思维](#TEST)<br />
 [测试工具](#TESTTOOLS)<br />
 [自动化测试](#AUTOTEST)<br />
-[持续集成](#CI)
+[持续集成](#CI)<br />
 [WEB测试](#WEBTEST)<br />
 [移动测试](#MOBILETEST)<br />
 [性能测试](#PERFORMANCETEST)<br />
