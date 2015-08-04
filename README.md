@@ -6,7 +6,7 @@ QA周刊分类整理-201508<br />
 
 [业界动态](#NEWS)<br />
 [测试思维](#TEST)<br />
-[基础知识]（#BASIC）<br />
+[基础知识](#BASIC)<br />
 [测试工具](#TESTTOOLS)<br />
 [自动化测试](#AUTOTEST)<br />
 [持续集成](#CI)<br />
