@@ -61,5 +61,5 @@ QA周刊分类整理-201508<br />
 ##实用教程
 [工具资料片：Linux 工具速查手册，Linux小白必备！](http://http//linuxtools-rst.readthedocs.org/zh_CN/latest/base/index.html)  
 [深入NGINX：我们如何设计它的性能和扩展性 ](http://www.cnbeta.com/articles/402709.htm)  
-[LeakCanary 中文使用说明 ](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
+[LeakCanary 中文使用说明 ](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)  
 [如何参与一个GitHub开源项目？ ](http://mp.weixin.qq.com/s?__biz=MjM5MzA0ODkyMA==&mid=200909764&idx=1&sn=5184c6637977a94916508379b194f3e0)
