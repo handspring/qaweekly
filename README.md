@@ -40,7 +40,10 @@ QA周刊分类整理-201508<br />
 
 <a name="WEBTEST"></a>
 ##WEB测试
-
+[当你在浏览器中输入Google.com并且按下回车之后发生了什么？ ](http://blog.jobbole.com/84870/)  
+[深入详解SQL中的Null](http://blog.jobbole.com/85902/)  
+[专访阿里巴巴毕玄：异地多活数据中心项目的来龙去脉](http://www.infoq.com/cn/articles/interview-alibaba-bixuan)  
+[估计很难有比代码改进更不受团队欢迎的事](http://www.newsmth.net/bbstcon.php?board=SoftEng&gid=88109&start=88109&pno=1)
 <a name="MOBILETEST"></a>
 ##移动测试
 
@@ -59,3 +62,4 @@ QA周刊分类整理-201508<br />
 [工具资料片：Linux 工具速查手册，Linux小白必备！](http://http//linuxtools-rst.readthedocs.org/zh_CN/latest/base/index.html)  
 [深入NGINX：我们如何设计它的性能和扩展性 ](http://www.cnbeta.com/articles/402709.htm)  
 [LeakCanary 中文使用说明 ](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
+[如何参与一个GitHub开源项目？ ](http://mp.weixin.qq.com/s?__biz=MjM5MzA0ODkyMA==&mid=200909764&idx=1&sn=5184c6637977a94916508379b194f3e0)
