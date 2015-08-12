@@ -19,7 +19,6 @@ QA周刊分类整理-201508<br />
 
 <a name="NEWS"></a>
 ##业界动态
-[XebiaLabs TestView整合了多种测试工具](http://www.infoq.com/cn/news/2015/07/xebialabs-testview)
 [在敏捷中，我们需要思考型的测试人员（Thinking Tester）。](http://www.infoq.com/cn/news/2015/03/creativity-agile-testing)  
 [敏捷测试2015新看点](http://www.infoq.com/cn/news/2015/03/new-developments-agile-testing) 
 
@@ -41,6 +40,7 @@ QA周刊分类整理-201508<br />
 
 <a name="TESTTOOLS"></a>
 ##测试工具
+[XebiaLabs TestView整合了多种测试工具](http://www.infoq.com/cn/news/2015/07/xebialabs-testview)
 
 <a name="AUTOTEST"></a>
 ##自动化测试
