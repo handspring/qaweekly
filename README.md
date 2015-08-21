@@ -21,6 +21,7 @@ QA周刊分类整理-201508<br />
 ##业界动态
 [2015Qcon大会资料汇总](http://doc.hz.netease.com/pages/viewpage.action?pageId=45191251)  
 [16th 武汉BQConf ppt汇总](http://doc.hz.netease.com/pages/viewpage.action?pageId=45203055)   
+[2015年需要了解的前端框架和语言](http://www.oschina.net/news/64218/2015-frameworkds-need-to-learn)  
 [在敏捷中，我们需要思考型的测试人员（Thinking Tester）。](http://www.infoq.com/cn/news/2015/03/creativity-agile-testing)  
 [敏捷测试2015新看点](http://www.infoq.com/cn/news/2015/03/new-developments-agile-testing)  
 [51testing测试天地之四月刊](http://download.51testing.com/magazine/51Testing_magazine37.pdf)  
@@ -28,7 +29,9 @@ QA周刊分类整理-201508<br />
 [告别第三方，Visual Studio 引入新的网络诊断工具](http://blog.jobbole.com/86787/)  
 [书评 - 《展望敏捷软件测试》](http://www.infoq.com/cn/articles/agile-software-testing)  
 [PWorld 软件架构 & 平台创新大会](http://pworld.qclub.io/index.html)  
-
+[Google I/O 2015 主题发布会图文直播](http://www.cnbeta.com/articles/397909.htm)  
+[“互联网女皇报告”中文版_腾讯科技](http://doc.hz.netease.com/download/attachments/46012706/%E2%80%9C%E4%BA%92%E8%81%94%E7%BD%91%E5%A5%B3%E7%9A%87%E6%8A%A5%E5%91%8A%E2%80%9D%E4%B8%AD%E6%96%87%E7%89%88_%E8%85%BE%E8%AE%AF%E7%A7%91%E6%8A%80.pdf)  
+[从携程网的故障中我们应该反思什么？](http://www.infoq.com/cn/news/2015/05/rethink-ctrip-offline)  
 
 
 <a name="TEST"></a>
@@ -38,11 +41,13 @@ QA周刊分类整理-201508<br />
 [手机淘宝高质量持续交付探索之路](http://www.testwo.com/article/379)  
 [探索式测试实践之缺陷大扫除和结对测试](http://blog.sina.com.cn/s/blog_6cf812be01012h6l.html#bsh-161-314253713)  
 [故障管理工作方法和技巧分享](http://weibo.com/p/1001603835134481714741)  
-[测试工程师的进阶之路](http://www.ltesting.net/ceshi/ceshijishu/rjcsgcsrm/2015/0430/207949.html) 
+[测试工程师的进阶之路](http://www.ltesting.net/ceshi/ceshijishu/rjcsgcsrm/2015/0430/207949.html)  
 [BDD怎样帮助你解决沟通问题并增进协作](http://www.infoq.com/cn/news/2015/05/BDD-collaboration)   
 [持续软件代码质量提升](http://doc.hz.netease.com/download/attachments/45203055/%E6%8C%81%E7%BB%AD%E7%9A%84%E8%BD%AF%E4%BB%B6%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87.pdf)   
-
-
+[对前端质量保障的思考](http://www.51testing.com/html/36/n-2980636.html)  
+[一些产品测试经验](http://www.jianshu.com/p/9f3041818702)  
+[程序员7大软技能测验 你得几分？](http://www.codeceo.com/article/programmer-soft-skills-quiz.html)  
+[敏捷是怎样改变测试管理的](http://www.infoq.com/cn/articles/agile-changed-test-management?utm_source=tuicool)  
 
 <a name="BASIC"></a>
 ##基础知识
@@ -59,7 +64,7 @@ QA周刊分类整理-201508<br />
 ##测试工具
 [XebiaLabs TestView整合了多种测试工具](http://www.infoq.com/cn/news/2015/07/xebialabs-testview)  
 [工具篇：腾讯的移动质量跟踪平台](http://bugly.qq.com/)  
-
+[10个免费的服务器监控工具](http://blog.jobbole.com/88115/)  
   
 
 <a name="AUTOTEST"></a>
@@ -71,6 +76,9 @@ QA周刊分类整理-201508<br />
 [Google+ 团队的 Android UI 测试](http://allenlsy.com/android-ui-tests-in-google-plus-team/)  
 [功能测试自动化在敏捷过程中的实践与技术展望](http://doc.hz.netease.com/download/attachments/45191251/%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%E8%87%AA%E5%8A%A8%E5%8C%96%E5%9C%A8%E6%95%8F%E6%8D%B7%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%B1%95%E6%9C%9B.pdf)  
 [Monkey的专项测试浅谈](http://www.testwo.com/article/402)  
+[接口测试总结](blog.sina.com.cn/s/blog_6e0d94750102vjqf.html)  
+[What are Unit Testing, Integration Testing and Functional Testing?](http://codeutopia.net/blog/2015/04/11/what-are-unit-testing-integration-testing-and-functional-testing/)  
+[在CI中实现持续Web安全扫描](http://www.infoq.com/cn/articles/WebScan-CI)  
 
 
 
@@ -88,6 +96,8 @@ QA周刊分类整理-201508<br />
 [专访阿里巴巴毕玄：异地多活数据中心项目的来龙去脉](http://www.infoq.com/cn/articles/interview-alibaba-bixuan)  
 [估计很难有比代码改进更不受团队欢迎的事](http://www.newsmth.net/bbstcon.php?board=SoftEng&gid=88109&start=88109&pno=1)  
 [How to Write a Quality Bug Report](http://university.utest.com/writing-quality-bug-reports-and-utest-etiquette/)  
+[谷歌Web开发技术变迁史与踩坑史](http://36kr.com/p/533342.html?utm_source=site_search)  
+
 
 <a name="MOBILETEST"></a>
 ##移动测试
@@ -97,7 +107,8 @@ QA周刊分类整理-201508<br />
 [Android Studio入门指南](http://blog.csdn.net/wirelessqa/article/details/14222041)  
 [【易测试201505】Gradle 安卓打包实战](http://ks.netease.com/blog?id=2050)  
 [Android 常用 adb 命令总结](https://testerhome.com/topics/2565)  
-
+[Html5移动应用风口已经开始来临](http://www.cocoachina.com/game/20150629/12306.html)  
+[【CDC翻客】移动端App测试实用指南](http://cdc.tencent.com/?p=6545)  
 
 
 <a name="PERFORMANCETEST"></a>
@@ -109,12 +120,15 @@ QA周刊分类整理-201508<br />
 [如何从程序优化的角度解释淘宝支付宝的安卓版卡顿？](http://www.zhihu.com/question/30033704/answer/46615625)  
 [2015年度Web框架性能基准测试](http://www.infoq.com/cn/news/2015/04/web-frameworks-benchmark-2015)  
 [美团性能分析框架和性能监控平台](http://www.tuicool.com/articles/UFJvee)  
-
+[web性能测试你问我答之测试准备](http://ks.netease.com/blog?id=2216)  
+[你可能不知道的jprofiler使用小贴士](http://ks.netease.com/blog?id=2198)  
+[NoSQL性能测试白皮书](http://www.infoq.com/cn/articles/nosql-performance-test)  
 
 <a name="SECURITYTEST"></a>
 ##安全测试
 [业务安全漏洞挖掘归纳总结 ](http://drops.wooyun.org/web/6917)  
 [用黑客思维做测试---大型项目安全测试思路分享 ](http://www.taobaotest.com/blogs/2559)  
+[“互联网+”时代的移动安全实践](http://www.infoq.com/cn/news/2015/07/mobile-security)  
 
 <a name="COURSE"></a>
 ##实用教程
@@ -129,7 +143,7 @@ QA周刊分类整理-201508<br />
 <a name="TOPICS"></a>
 ##话题
 [有的人喜欢创造世界，他们做了程序员；有的人喜欢拯救世界，他们做了测试员](http://www.zhihu.com/question/20269633)  
-[怎样成为全栈工程师（Full Stack Developer）？ ](http://www.zhihu.com/question/22420900)
+[怎样成为全栈工程师（Full Stack Developer）？ ](http://www.zhihu.com/question/22420900)  
 [软件测试转型之路](www.infoq.com/cn/articles/transformation-way-software-testing/)  
 [从 Code Review 谈如何做技术](www.testwo.com/article/378)  
 [访谈：关于持续敏捷交付与服务矩阵](http://www.infoq.com/cn/articles/book-unblock-continuous-agile)    
