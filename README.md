@@ -33,7 +33,9 @@ QA周刊分类整理-201508<br />
 [“互联网女皇报告”中文版_腾讯科技](http://doc.hz.netease.com/download/attachments/46012706/%E2%80%9C%E4%BA%92%E8%81%94%E7%BD%91%E5%A5%B3%E7%9A%87%E6%8A%A5%E5%91%8A%E2%80%9D%E4%B8%AD%E6%96%87%E7%89%88_%E8%85%BE%E8%AE%AF%E7%A7%91%E6%8A%80.pdf)  
 [从携程网的故障中我们应该反思什么？](http://www.infoq.com/cn/news/2015/05/rethink-ctrip-offline)  
 [那些没在Goggle I/O上展示的Brillo和Weave细节，全都在这儿了](http://36kr.com/p/533402.html?utm_source=site_search)
+
 [2015苹果全球开发者大会（WWDC 2015）](http://tech.163.com/special/wwdc2015/)
+
 [Go1.5 发布说明](https://github.com/meilihao/TranslateProject/blob/master/201507%20Go%201.5%20Release%20Notes.md)
 
 
@@ -53,8 +55,7 @@ QA周刊分类整理-201508<br />
 [敏捷是怎样改变测试管理的](http://www.infoq.com/cn/articles/agile-changed-test-management?utm_source=tuicool)  
 [天哪，BUG居然可以这样报！](http://mp.weixin.qq.com/s?__biz=MjM5ODY4ODIxOA==&mid=205869689&idx=1&sn=cbcc4e0c648dd0bc4478c4c7d01a91ff&scene=5#rd)
 
-[How To Write Effective Test Cases and Procedures?]
-(http://www.softwaretestingclass.com/how-to-write-effective-test-cases-and-procedures/?utm_source=tuicool)
+[How To Write Effective Test Cases and Procedures?](http://www.softwaretestingclass.com/how-to-write-effective-test-cases-and-procedures/?utm_source=tuicool)
 
 
 <a name="BASIC"></a>
@@ -121,7 +122,9 @@ QA周刊分类整理-201508<br />
 [Html5移动应用风口已经开始来临](http://www.cocoachina.com/game/20150629/12306.html)  
 [【CDC翻客】移动端App测试实用指南](http://cdc.tencent.com/?p=6545)  
 [12 Best Mobile App Testing Frameworks 的简单了解](https://testerhome.com/topics/2416)
+
 [Quality Tools for Android](https://github.com/stephanenicolas/Quality-Tools-for-Android)
+
 [iOS中几种数据持久化方案：我要永远地记住你！](http://www.cocoachina.com/ios/20150720/12610.html)
 
 <a name="PERFORMANCETEST"></a>
@@ -137,6 +140,7 @@ QA周刊分类整理-201508<br />
 [你可能不知道的jprofiler使用小贴士](http://ks.netease.com/blog?id=2198)  
 [NoSQL性能测试白皮书](http://www.infoq.com/cn/articles/nosql-performance-test)  
 [Web性能API——帮你分析Web前端性能](http://www.infoq.com/cn/news/2015/06/web-performance-api)
+
 [Performance Tuning Technique: 几个角度](http://liguanglei.name/blogs/2012/03/11/performance-tuning-technique/)
 
 
