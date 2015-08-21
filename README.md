@@ -52,7 +52,10 @@ QA周刊分类整理-201508<br />
 [程序员7大软技能测验 你得几分？](http://www.codeceo.com/article/programmer-soft-skills-quiz.html)  
 [敏捷是怎样改变测试管理的](http://www.infoq.com/cn/articles/agile-changed-test-management?utm_source=tuicool)  
 [天哪，BUG居然可以这样报！](http://mp.weixin.qq.com/s?__biz=MjM5ODY4ODIxOA==&mid=205869689&idx=1&sn=cbcc4e0c648dd0bc4478c4c7d01a91ff&scene=5#rd)
-[How To Write Effective Test Cases and Procedures?](http://www.softwaretestingclass.com/how-to-write-effective-test-cases-and-procedures/?utm_source=tuicool)
+
+[How To Write Effective Test Cases and Procedures?]
+(http://www.softwaretestingclass.com/how-to-write-effective-test-cases-and-procedures/?utm_source=tuicool)
+
 
 <a name="BASIC"></a>
 ##基础知识
