@@ -32,6 +32,9 @@ QA周刊分类整理-201508<br />
 [Google I/O 2015 主题发布会图文直播](http://www.cnbeta.com/articles/397909.htm)  
 [“互联网女皇报告”中文版_腾讯科技](http://doc.hz.netease.com/download/attachments/46012706/%E2%80%9C%E4%BA%92%E8%81%94%E7%BD%91%E5%A5%B3%E7%9A%87%E6%8A%A5%E5%91%8A%E2%80%9D%E4%B8%AD%E6%96%87%E7%89%88_%E8%85%BE%E8%AE%AF%E7%A7%91%E6%8A%80.pdf)  
 [从携程网的故障中我们应该反思什么？](http://www.infoq.com/cn/news/2015/05/rethink-ctrip-offline)  
+[那些没在Goggle I/O上展示的Brillo和Weave细节，全都在这儿了](http://36kr.com/p/533402.html?utm_source=site_search)
+[2015苹果全球开发者大会（WWDC 2015）](http://tech.163.com/special/wwdc2015/)
+[Go1.5 发布说明](https://github.com/meilihao/TranslateProject/blob/master/201507%20Go%201.5%20Release%20Notes.md)
 
 
 <a name="TEST"></a>
@@ -48,6 +51,8 @@ QA周刊分类整理-201508<br />
 [一些产品测试经验](http://www.jianshu.com/p/9f3041818702)  
 [程序员7大软技能测验 你得几分？](http://www.codeceo.com/article/programmer-soft-skills-quiz.html)  
 [敏捷是怎样改变测试管理的](http://www.infoq.com/cn/articles/agile-changed-test-management?utm_source=tuicool)  
+[天哪，BUG居然可以这样报！](http://mp.weixin.qq.com/s?__biz=MjM5ODY4ODIxOA==&mid=205869689&idx=1&sn=cbcc4e0c648dd0bc4478c4c7d01a91ff&scene=5#rd)
+[How To Write Effective Test Cases and Procedures?](http://www.softwaretestingclass.com/how-to-write-effective-test-cases-and-procedures/?utm_source=tuicool)
 
 <a name="BASIC"></a>
 ##基础知识
@@ -65,7 +70,7 @@ QA周刊分类整理-201508<br />
 [XebiaLabs TestView整合了多种测试工具](http://www.infoq.com/cn/news/2015/07/xebialabs-testview)  
 [工具篇：腾讯的移动质量跟踪平台](http://bugly.qq.com/)  
 [10个免费的服务器监控工具](http://blog.jobbole.com/88115/)  
-  
+[SonarQube 3.6 代码质量管理实战](http://www.uml.org.cn/rjzl/201507213.asp)
 
 <a name="AUTOTEST"></a>
 ##自动化测试
@@ -79,6 +84,8 @@ QA周刊分类整理-201508<br />
 [接口测试总结](blog.sina.com.cn/s/blog_6e0d94750102vjqf.html)  
 [What are Unit Testing, Integration Testing and Functional Testing?](http://codeutopia.net/blog/2015/04/11/what-are-unit-testing-integration-testing-and-functional-testing/)  
 [在CI中实现持续Web安全扫描](http://www.infoq.com/cn/articles/WebScan-CI)  
+[当谈论覆盖率时我们在谈什么](http://liguanglei.name/blogs/2015/06/01/code-coverage-vs-test-coverage/)
+
 
 
 
@@ -97,7 +104,8 @@ QA周刊分类整理-201508<br />
 [估计很难有比代码改进更不受团队欢迎的事](http://www.newsmth.net/bbstcon.php?board=SoftEng&gid=88109&start=88109&pno=1)  
 [How to Write a Quality Bug Report](http://university.utest.com/writing-quality-bug-reports-and-utest-etiquette/)  
 [谷歌Web开发技术变迁史与踩坑史](http://36kr.com/p/533342.html?utm_source=site_search)  
-
+[【web测试】你必须验证的检查点](http://www.sogouqa.com/2015/05/14/%e3%80%90web%e6%b5%8b%e8%af%95%e3%80%91%e4%bd%a0%e5%bf%85%e9%a1%bb%e9%aa%8c%e8%af%81%e7%9a%84%e6%a3%80%e6%9f%a5%e7%82%b9/?utm_source=tuicool)
+[七牛前端测试实践](http://weibo.com/p/1001603864951990185052?sudaref=toutiao.io)
 
 <a name="MOBILETEST"></a>
 ##移动测试
@@ -109,7 +117,9 @@ QA周刊分类整理-201508<br />
 [Android 常用 adb 命令总结](https://testerhome.com/topics/2565)  
 [Html5移动应用风口已经开始来临](http://www.cocoachina.com/game/20150629/12306.html)  
 [【CDC翻客】移动端App测试实用指南](http://cdc.tencent.com/?p=6545)  
-
+[12 Best Mobile App Testing Frameworks 的简单了解](https://testerhome.com/topics/2416)
+[Quality Tools for Android](https://github.com/stephanenicolas/Quality-Tools-for-Android)
+[iOS中几种数据持久化方案：我要永远地记住你！](http://www.cocoachina.com/ios/20150720/12610.html)
 
 <a name="PERFORMANCETEST"></a>
 ##性能测试
@@ -123,12 +133,16 @@ QA周刊分类整理-201508<br />
 [web性能测试你问我答之测试准备](http://ks.netease.com/blog?id=2216)  
 [你可能不知道的jprofiler使用小贴士](http://ks.netease.com/blog?id=2198)  
 [NoSQL性能测试白皮书](http://www.infoq.com/cn/articles/nosql-performance-test)  
+[Web性能API——帮你分析Web前端性能](http://www.infoq.com/cn/news/2015/06/web-performance-api)
+[Performance Tuning Technique: 几个角度](http://liguanglei.name/blogs/2012/03/11/performance-tuning-technique/)
+
 
 <a name="SECURITYTEST"></a>
 ##安全测试
 [业务安全漏洞挖掘归纳总结 ](http://drops.wooyun.org/web/6917)  
 [用黑客思维做测试---大型项目安全测试思路分享 ](http://www.taobaotest.com/blogs/2559)  
 [“互联网+”时代的移动安全实践](http://www.infoq.com/cn/news/2015/07/mobile-security)  
+[超大Cookie拒绝服务攻击](http://blog.jobbole.com/87394/)
 
 <a name="COURSE"></a>
 ##实用教程
@@ -136,8 +150,9 @@ QA周刊分类整理-201508<br />
 [深入NGINX：我们如何设计它的性能和扩展性 ](http://www.cnbeta.com/articles/402709.htm)  
 [LeakCanary 中文使用说明 ](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)  
 [如何参与一个GitHub开源项目？ ](http://mp.weixin.qq.com/s?__biz=MjM5MzA0ODkyMA==&mid=200909764&idx=1&sn=5184c6637977a94916508379b194f3e0)  
-  [程序员技术练级攻略](http://coolshell.cn/articles/4990.html)  
+[程序员技术练级攻略](http://coolshell.cn/articles/4990.html)  
 [GIT分支管理是一门艺术](http://roclinux.cn/?p=2129)  
+[Gradle Android Plugin 使用手册（中文版）](http://chaosleong.gitbooks.io/gradle-for-android/content/)
 
 
 <a name="TOPICS"></a>
@@ -148,7 +163,7 @@ QA周刊分类整理-201508<br />
 [从 Code Review 谈如何做技术](www.testwo.com/article/378)  
 [访谈：关于持续敏捷交付与服务矩阵](http://www.infoq.com/cn/articles/book-unblock-continuous-agile)    
 [开发是妈妈、产品经理是爸爸、测试是医生、产品是孩子](http://www.testwo.com/article/387)  
-
+[the-present-and-future-of-manual-testing](http://blog.utest.com/2015/07/14/the-present-and-future-of-manual-testing/)
 
 
 
