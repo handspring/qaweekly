@@ -35,6 +35,10 @@ QA周刊分类整理-201508<br />
 [那些没在Goggle I/O上展示的Brillo和Weave细节，全都在这儿了](http://36kr.com/p/533402.html?utm_source=site_search)  
 [2015苹果全球开发者大会（WWDC 2015）](http://tech.163.com/special/wwdc2015/)  
 [Go1.5 发布说明](https://github.com/meilihao/TranslateProject/blob/master/201507%20Go%201.5%20Release%20Notes.md)
+[移动安全顶级峰会揭露主流智能手机系统重大安全隐患： 小小输入法升级？6亿Galaxy 智能手机却可能沦为肉鸡](http://blog.utest.com/2015/06/19/worst-week-ever-major-security-flaws-hit-iphone-and-galaxy-smartphones/)
+[百度众测-基于众包的O2O服务质量保证](http://www.infoq.com/cn/presentations/o2o-service-quality-assurance-based-on-crowdsourcing)
+
+
 
 
 <a name="TEST"></a>
@@ -53,6 +57,9 @@ QA周刊分类整理-201508<br />
 [敏捷是怎样改变测试管理的](http://www.infoq.com/cn/articles/agile-changed-test-management?utm_source=tuicool)  
 [天哪，BUG居然可以这样报！](http://mp.weixin.qq.com/s?__biz=MjM5ODY4ODIxOA==&mid=205869689&idx=1&sn=cbcc4e0c648dd0bc4478c4c7d01a91ff&scene=5#rd)  
 [How To Write Effective Test Cases and Procedures?](http://www.softwaretestingclass.com/how-to-write-effective-test-cases-and-procedures/?utm_source=tuicool)
+[A new level of testing?](http://www.huibschoots.nl/wordpress/?p=1995)
+[软件缺陷的有效管理](http://insights.thoughtworkers.org/defect-management/)
+[移动测试人员的未来：测试开发技术的融合](http://www.infoq.com/cn/articles/mobile-testing-future?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage)
 
 
 <a name="BASIC"></a>
@@ -72,6 +79,7 @@ QA周刊分类整理-201508<br />
 [工具篇：腾讯的移动质量跟踪平台](http://bugly.qq.com/)  
 [10个免费的服务器监控工具](http://blog.jobbole.com/88115/)  
 [SonarQube 3.6 代码质量管理实战](http://www.uml.org.cn/rjzl/201507213.asp)
+[GitHub项目的同行审查自动化工具 ](http://www.infoq.com/cn/news/2015/07/github-code-review-bot)
 
 <a name="AUTOTEST"></a>
 ##自动化测试
@@ -95,6 +103,8 @@ QA周刊分类整理-201508<br />
 [Build To Win ](http://zhuanlan.zhihu.com/goujianzhifa/20003750)  
 [基于Docker整合开发测试环境, 是不是每个测试人员应该梦想有一套这样的环境？](http://dockone.io/article/342)    
 [持续测试的益处](http://www.infoq.com/cn/news/2015/05/benefits-continuous-testing)  
+[Jenkins User Conference 2015](https://www.cloudbees.com/jenkins/juc-2015/)
+[Docker持续部署图文详解 ](http://www.infoq.com/cn/articles/effective-ops-part-06)
 
 
 <a name="WEBTEST"></a>
@@ -107,6 +117,7 @@ QA周刊分类整理-201508<br />
 [谷歌Web开发技术变迁史与踩坑史](http://36kr.com/p/533342.html?utm_source=site_search)  
 [【web测试】你必须验证的检查点](http://www.sogouqa.com/2015/05/14/%e3%80%90web%e6%b5%8b%e8%af%95%e3%80%91%e4%bd%a0%e5%bf%85%e9%a1%bb%e9%aa%8c%e8%af%81%e7%9a%84%e6%a3%80%e6%9f%a5%e7%82%b9/?utm_source=tuicool)  
 [七牛前端测试实践](http://weibo.com/p/1001603864951990185052?sudaref=toutiao.io)  
+[使用Selenium测试时必需知道的7件事](http://www.infoq.com/cn/news/2015/07/selenium-7things)
 
 <a name="MOBILETEST"></a>
 ##移动测试
@@ -121,6 +132,12 @@ QA周刊分类整理-201508<br />
 [12 Best Mobile App Testing Frameworks 的简单了解](https://testerhome.com/topics/2416)  
 [Quality Tools for Android](https://github.com/stephanenicolas/Quality-Tools-for-Android)  
 [iOS中几种数据持久化方案：我要永远地记住你！](http://www.cocoachina.com/ios/20150720/12610.html)  
+[用Robolectric来做Android unit testing](http://www.testwo.com/article/428)  
+[iOS应用程序的生命周期](http://www.jianshu.com/p/aa50e5350852)
+[WWDC15 Session笔记 - iOS 9 多任务分屏要点](http://www.cocoachina.com/apple/20150618/12169.html)
+[检测和解决Android应用的性能问题](http://www.csdn.net/article/2015-07-27/2825310/1)
+[Android内存使用分析和程序性能分析 ](http://www.liaohuqiu.net/cn/posts/memory-and-profile-analysis-in-android/)
+
 
 <a name="PERFORMANCETEST"></a>
 ##性能测试
@@ -135,7 +152,11 @@ QA周刊分类整理-201508<br />
 [你可能不知道的jprofiler使用小贴士](http://ks.netease.com/blog?id=2198)  
 [Web性能API——帮你分析Web前端性能](http://www.infoq.com/cn/news/2015/06/web-performance-api)  
 [NoSQL性能测试白皮书](http://www.infoq.com/cn/articles/nosql-performance-test)    
-[Performance Tuning Technique: 几个角度](http://liguanglei.name/blogs/2012/03/11/performance-tuning-technique/)	 
+[Performance Tuning Technique: 几个角度](http://liguanglei.name/blogs/2012/03/11/performance-tuning-technique/)	
+[web性能优化：what？why？how](http://www.cnblogs.com/dojo-lzz/p/4591446.html)
+[如何生成每秒百万级别的 HTTP 请求](http://blog.jobbole.com/87509/)
+[参数调优：合理设置线程池，将Nginx性能提升9倍](http://nginx.com/blog/thread-pools-boost-performance-9x/)
+[谁在关心toString的性能？ ](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=207724610&idx=1&sn=da9d46842c9d96952f82e8029a60b899&key=0acd51d81cb052bc17432249dcf7f882e65fb552fd82f26f6d33b79b8bb11b32c9596087dd9d66ef5eab0b504db6507b&ascene=1&uin=MjU1NDA4Mjk1&devicetype=Windows+7&version=61020019&pass_ticket=%2BwUQkVnBradxyFD98eb4WO2wDkJZgA64e5Pj2wxzN2M%3D)
 
 
 
