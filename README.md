@@ -36,7 +36,8 @@ QA周刊分类整理-201508<br />
 [2015苹果全球开发者大会（WWDC 2015）](http://tech.163.com/special/wwdc2015/)   
 [Go1.5 发布说明](https://github.com/meilihao/TranslateProject/blob/master/201507%20Go%201.5%20Release%20Notes.md)   
 [移动安全顶级峰会揭露主流智能手机系统重大安全隐患： 小小输入法升级？6亿Galaxy 智能手机却可能沦为肉鸡](http://blog.utest.com/2015/06/19/worst-week-ever-major-security-flaws-hit-iphone-and-galaxy-smartphones/)     
-[百度众测-基于众包的O2O服务质量保证](http://www.infoq.com/cn/presentations/o2o-service-quality-assurance-based-on-crowdsourcing)  
+[百度众测-基于众包的O2O服务质量保证](http://www.infoq.com/cn/presentations/o2o-service-quality-assurance-based-on-crowdsourcing)
+[2014年第八届中国软件测试现状调查报告](http://download.51testing.com/ddimg/uploadsoft/20150623/2014_tester_report.pdf)
 
 
 <a name="TEST"></a>
@@ -59,7 +60,12 @@ QA周刊分类整理-201508<br />
 [软件缺陷的有效管理](http://insights.thoughtworkers.org/defect-management/)   
 [移动测试人员的未来：测试开发技术的融合](http://www.infoq.com/cn/articles/mobile-testing-future?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage)      
 [算法、技术及其他 ](http://www.cnblogs.com/aquastone/p/algorithm-technology-and-others.html)   
-[James Whittaker：经营成功的测试职业生涯 ](http://blog.jobbole.com/74611/)   
+[James Whittaker：经营成功的测试职业生涯 ](http://blog.jobbole.com/74611/)
+[从测试人员的角度看敏捷中的障碍](http://www.testwo.com/article/436)
+[如何有效地报告bug](http://www.cocoachina.com/programmer/20150626/12284.html)
+[通过心理学知识提高问题定位与解决能力](http://kb.cnblogs.com/page/522261/)
+[你的敏捷用对了吗？](http://chuansong.me/n/1600022)
+[一种基于存储过程的复杂计算功能测试方法](http://qa.baidu.com/blog/?p=897)
 
 
 <a name="BASIC"></a>
@@ -81,6 +87,7 @@ QA周刊分类整理-201508<br />
 [SonarQube 3.6 代码质量管理实战](http://www.uml.org.cn/rjzl/201507213.asp)
 [GitHub项目的同行审查自动化工具 ](http://www.infoq.com/cn/news/2015/07/github-code-review-bot)  
 [一些命令行效率工具 ](http://wulfric.me/2015/08/zsh/)
+[9款免费且超实用的响应式网页测试工具](http://www.uisdc.com/9-free-responsiveness-testing-tools)
 
 <a name="AUTOTEST"></a>
 ##自动化测试
@@ -104,7 +111,9 @@ QA周刊分类整理-201508<br />
 [持续测试的益处](http://www.infoq.com/cn/news/2015/05/benefits-continuous-testing)  
 [Jenkins User Conference 2015](https://www.cloudbees.com/jenkins/juc-2015/)
 [Docker持续部署图文详解 ](http://www.infoq.com/cn/articles/effective-ops-part-06)   
-[针对gitlab Merge Request跑jenkins测试](http://louiseyang.github.io/blog/2015/03/26/zhen-dui-gitlab-merge-requestpao-jenkinsce-shi/)  
+[针对gitlab Merge Request跑jenkins测试](http://louiseyang.github.io/blog/2015/03/26/zhen-dui-gitlab-merge-requestpao-jenkinsce-shi/)
+[“持续集成”也需要重构------持续集成实践在Cruise开发过程中的演进](http://www.testwo.com/article/434)
+[持续集成和“云”](http://dockone.io/article/470)
 
 
 <a name="WEBTEST"></a>
@@ -118,6 +127,10 @@ QA周刊分类整理-201508<br />
 [【web测试】你必须验证的检查点](http://www.sogouqa.com/2015/05/14/%e3%80%90web%e6%b5%8b%e8%af%95%e3%80%91%e4%bd%a0%e5%bf%85%e9%a1%bb%e9%aa%8c%e8%af%81%e7%9a%84%e6%a3%80%e6%9f%a5%e7%82%b9/?utm_source=tuicool)  
 [七牛前端测试实践](http://weibo.com/p/1001603864951990185052?sudaref=toutiao.io)  
 [使用Selenium测试时必需知道的7件事](http://www.infoq.com/cn/news/2015/07/selenium-7things)
+[成为一名优秀的Web前端开发者](http://www.infoq.com/cn/news/2015/08/great-front-end-developer)
+[Web前端技术栈](https://github.com/unruledboy/WebFrontEndStack)
+[Moco 框架以及其在 Web 集成测试的应用](http://www.uml.org.cn/Test/201508043.asp)
+[用猫咪图片来记忆HTTP状态码](http://blog.jobbole.com/88450/)
 
 
 <a name="MOBILETEST"></a>
@@ -138,7 +151,12 @@ QA周刊分类整理-201508<br />
 [WWDC15 Session笔记 - iOS 9 多任务分屏要点](http://www.cocoachina.com/apple/20150618/12169.html)   
 [检测和解决Android应用的性能问题](http://www.csdn.net/article/2015-07-27/2825310/1)   
 [Android内存使用分析和程序性能分析 ](http://www.liaohuqiu.net/cn/posts/memory-and-profile-analysis-in-android/)   
-[在Android Studio中使用Roboletric和Espresso ](http://codethink.me/2015/05/27/use-robolectric-with-espresso-in-android-studio/)  
+[在Android Studio中使用Roboletric和Espresso ](http://codethink.me/2015/05/27/use-robolectric-with-espresso-in-android-studio/)
+[Android应用性能评测调优](http://www.csdn.net/article/2015-06-12/2824949)
+[如何在ios应用开发中提高滚屏的性能](https://code.facebook.com/posts/456535491190613?__tn__=H)
+[国内移动测试服务盘点](http://www.infoq.com/cn/news/2015/06/mobile-testing-service)
+[小强的HTML5移动开发之路](http://blog.csdn.net/column/details/dawanganban-html5.html)
+[How to Use Instruments in Xcode](http://www.raywenderlich.com/23037/how-to-use-instruments-in-xcode)
 
 
 <a name="PERFORMANCETEST"></a>
@@ -161,6 +179,7 @@ QA周刊分类整理-201508<br />
 [谁在关心toString的性能？ ](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=207724610&idx=1&sn=da9d46842c9d96952f82e8029a60b899&key=0acd51d81cb052bc17432249dcf7f882e65fb552fd82f26f6d33b79b8bb11b32c9596087dd9d66ef5eab0b504db6507b&ascene=1&uin=MjU1NDA4Mjk1&devicetype=Windows+7&version=61020019&pass_ticket=%2BwUQkVnBradxyFD98eb4WO2wDkJZgA64e5Pj2wxzN2M%3D)  
 [腾讯游戏如何使用Docker？ ](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=208808439&idx=1&sn=04824ac4c161981d31ee0b02191f28bb&scene=1&srcid=O8tvzXkBHsmwuRlXF6VL&key=dffc561732c22651e96c3ec7c2a3ec46de033289d71e82192ac9aa2156d48c9b4c815deb3d0aa26af55e89bd84055d98&ascene=1&uin=MjU1NDA4Mjk1&devicetype=Windows+7&version=6102002a&pass_ticket=yITCUaUbUCFFrZOk98MTFoL2dfVYWyvog5cREU1nL18%3D)  
 [Java内存问题 ](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=207945653&idx=1&sn=9e300f05d20de8dcccdb8c739d6e2422&scene=1&srcid=uFL9E08mmgatx5DVye0N&key=dffc561732c22651cbc40adf49e81520c14987540f04c83255e5c251102748d16bcc9fe9765308c75f71c873a4d451e5&ascene=1&uin=MjU1NDA4Mjk1&devicetype=Windows+7&version=6102002a&pass_ticket=yITCUaUbUCFFrZOk98MTFoL2dfVYWyvog5cREU1nL18%3D)
+[为最佳性能调优Nginx](http://mp.weixin.qq.com/s?__biz=MjM5MTM0NjQ2MQ==&mid=210898312&idx=1&sn=05cfc9b0df0c5816d01db4c15f334cea&scene=1&key=0acd51d81cb052bc4576ecbb18611c9b50fc723d166977da7cee736c2a6339ebf313a9bea76d34afcb9487f544ef21ae&ascene=1&uin=MjU1NDA4Mjk1&devicetype=Windows+7&version=61020019&pass_ticket=jj%2F9wKidZkP23mS63oaHQENez0M82F%2BiAW3UXkLGwig%3D)
 
 
 <a name="SECURITYTEST"></a>
