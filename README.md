@@ -41,6 +41,13 @@ QA周刊分类整理-201508<br />
 [为何docker还未一统天下 ](http://sirupsen.com/production-docker/)  
 [从360手机卫士的开发历程看如何实施大型移动应用开发 ](http://www.infoq.com/cn/presentations/from-360-development-see-big-mobile-application-development)  
 [Git 2.5增加了工作树、改进了三角工作流、性能等诸多方面 ](http://www.infoq.com/cn/news/2015/08/git-25-released)  
+[Facebook开源静态代码检查工具Infer](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)  
+[特殊字符的威力：分分钟搞瘫iOS message & Skype](http://blog.utest.com/2015/06/05/skype-and-iphone-messages-are-having-a-bad-week//)  
+[2015TID大会PPT汇总](http://doc.hz.netease.com/pages/viewpage.action?pageId=46890503)  
+[2015第一届中国移动测试大会PPT](http://doc.hz.netease.com/pages/viewpage.action?pageId=47974520)  
+[Appium中国行分享总结：当测试遇上机器人](http://www.infoq.com/cn/news/2015/07/mtsc-appium)  
+
+
 
 <a name="TEST"></a>
 ##测试思维
@@ -68,6 +75,12 @@ QA周刊分类整理-201508<br />
 [通过心理学知识提高问题定位与解决能力](http://kb.cnblogs.com/page/522261/)  
 [你的敏捷用对了吗？](http://chuansong.me/n/1600022)  
 [一种基于存储过程的复杂计算功能测试方法](http://qa.baidu.com/blog/?p=897)  
+[在数据仓库中实现敏捷](http://www.infoq.com/cn/news/2015/05/data-warehouse)  
+[一大波平台来袭，可用性测试怎么破](http://isux.tencent.com/usability-test-of-multi-platform.html)  
+[分布式系统场景注入测试](http://mp.weixin.qq.com/s?__biz=MzA3MDQ4MzQzMg==&mid=246713986&idx=1&sn=90998cd4a6fa0a4c0310074bb862dd1f&key=c76941211a49ab58868b8738e15475907084ffad474267a1781d535968a47c823c0d0b164bc8fc40258b0da25e626de4&ascene=1&uin=MjIxMTg5NDUwMA%3D%3D&devicetype=Windows+7&version=61010029&pass_ticket=UEWChUZBbEANEFjVpxCT%2F2QbsZmJJWXk2fbxUzMQzfkhh3a9qFEFHoXxXR8tNMPs)  
+
+
+
 
 
 <a name="BASIC"></a>
@@ -92,7 +105,11 @@ QA周刊分类整理-201508<br />
 [9款免费且超实用的响应式网页测试工具](http://www.uisdc.com/9-free-responsiveness-testing-tools)  
 [Android UI 自动化测试的代码覆盖率 ](https://testerhome.com/topics/2501)  
 [使用Spock框架进行单元测试 ](http://blog.2baxb.me/archives/1398)  
-[Sixpack-java：用于Android和Java应用的A/B测试工具 ](http://www.infoq.com/cn/news/2015/08/Sixpack-java)
+[Sixpack-java：用于Android和Java应用的A/B测试工具 ](http://www.infoq.com/cn/news/2015/08/Sixpack-java)  
+[七牛开源的http测试工具](https://github.com/qiniu/httptest.v1)  
+[WEB 端批量移动设备管理控制工具 STF 的环境搭建和运行](https://testerhome.com/topics/2988)  
+[infer中文使用说明](http://infer.liaohuqiu.net/)  
+
 
 <a name="AUTOTEST"></a>
 ##自动化测试
@@ -107,6 +124,9 @@ QA周刊分类整理-201508<br />
 [What are Unit Testing, Integration Testing and Functional Testing?](http://codeutopia.net/blog/2015/04/11/what-are-unit-testing-integration-testing-and-functional-testing/)  
 [在CI中实现持续Web安全扫描](http://www.infoq.com/cn/articles/WebScan-CI)  
 [当谈论覆盖率时我们在谈什么](http://liguanglei.name/blogs/2015/06/01/code-coverage-vs-test-coverage/)   
+[实战Android自动化测试](http://testerhome.com/topics/658)  
+[自动化测试：真的是银弹？](http://www.ibm.com/developerworks/cn/rational/r-testing-automation/)  
+
 
 
 <a name="CI"></a>
@@ -119,6 +139,8 @@ QA周刊分类整理-201508<br />
 [针对gitlab Merge Request跑jenkins测试](http://louiseyang.github.io/blog/2015/03/26/zhen-dui-gitlab-merge-requestpao-jenkinsce-shi/)  
 [“持续集成”也需要重构------持续集成实践在Cruise开发过程中的演进](http://www.testwo.com/article/434)  
 [持续集成和“云”](http://dockone.io/article/470)  
+[IOS项目的持续集成与管理(译文)](http://www.jianshu.com/p/9ae446d76271)  
+[蚂蚁金服AQC持续集成平台漫谈](http://www.oktest.me/site/article/3143.html)  
 
 
 <a name="WEBTEST"></a>
@@ -136,6 +158,9 @@ QA周刊分类整理-201508<br />
 [Web前端技术栈](https://github.com/unruledboy/WebFrontEndStack)  
 [Moco 框架以及其在 Web 集成测试的应用](http://www.uml.org.cn/Test/201508043.asp)  
 [用猫咪图片来记忆HTTP状态码](http://blog.jobbole.com/88450/)  
+[15个对开发人员有用的Chrome扩展插件](http://info.9iphp.com/15-chrome-extensions-for-developers/)  
+
+
 
 
 <a name="MOBILETEST"></a>
@@ -162,6 +187,11 @@ QA周刊分类整理-201508<br />
 [国内移动测试服务盘点](http://www.infoq.com/cn/news/2015/06/mobile-testing-service)  
 [小强的HTML5移动开发之路](http://blog.csdn.net/column/details/dawanganban-html5.html)  
 [How to Use Instruments in Xcode](http://www.raywenderlich.com/23037/how-to-use-instruments-in-xcode)  
+[解放双手--Android自动化测试](http://blog.csdn.net/eclipsexys/article/details/45622813)  
+[实战Android自动化测试](http://testerhome.com/topics/658)  
+[IOS项目的持续集成与管理(译文)](http://www.jianshu.com/p/9ae446d76271)   
+[Google的Android性能模式](http://www.infoq.com/cn/news/2015/01/google-android-performance)  
+[在Android Studio中进行单元测试和UI测试](http://www.jianshu.com/p/03118c11c199)  
 
 
 <a name="PERFORMANCETEST"></a>
@@ -186,8 +216,11 @@ QA周刊分类整理-201508<br />
 [Java内存问题 ](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=207945653&idx=1&sn=9e300f05d20de8dcccdb8c739d6e2422&scene=1&srcid=uFL9E08mmgatx5DVye0N&key=dffc561732c22651cbc40adf49e81520c14987540f04c83255e5c251102748d16bcc9fe9765308c75f71c873a4d451e5&ascene=1&uin=MjU1NDA4Mjk1&devicetype=Windows+7&version=6102002a&pass_ticket=yITCUaUbUCFFrZOk98MTFoL2dfVYWyvog5cREU1nL18%3D)
 [为最佳性能调优Nginx](http://mp.weixin.qq.com/s?__biz=MjM5MTM0NjQ2MQ==&mid=210898312&idx=1&sn=05cfc9b0df0c5816d01db4c15f334cea&scene=1&key=0acd51d81cb052bc4576ecbb18611c9b50fc723d166977da7cee736c2a6339ebf313a9bea76d34afcb9487f544ef21ae&ascene=1&uin=MjU1NDA4Mjk1&devicetype=Windows+7&version=61020019&pass_ticket=jj%2F9wKidZkP23mS63oaHQENez0M82F%2BiAW3UXkLGwig%3D)  
 [高性能Tomcat：漫谈行走在sendfile之上的Tomcat ](http://jvmplus.duapp.com/blog/view/B143878703)  
-[如何彻底解决 "网络延迟 "这个根本性的问题？](http://www.zhihu.com/question/34689035/answer/59675675?utm_source=weibo&utm_medium=weibo_share&utm_content=share_answer&utm_campaign=share_button)
-
+[如何彻底解决 "网络延迟 "这个根本性的问题？](http://www.zhihu.com/question/34689035/answer/59675675?utm_source=weibo&utm_medium=weibo_share&utm_content=share_answer&utm_campaign=share_button)  
+[LeakCanary:让内存泄露无所遁形](http://www.liaohuqiu.net/cn/posts/leak-canary/)  
+[MySQL性能优化的21个最佳实践和MySQL使用索引](http://www.tuicool.com/articles/6NbiYza)  
+[Google的Android性能模式](http://www.infoq.com/cn/news/2015/01/google-android-performance)  
+[阿里无线前端性能优化指南](https://github.com/amfe/article/issues/1)  
 
 <a name="SECURITYTEST"></a>
 ##安全测试
@@ -218,6 +251,12 @@ QA周刊分类整理-201508<br />
 [访谈：关于持续敏捷交付与服务矩阵](http://www.infoq.com/cn/articles/book-unblock-continuous-agile)    
 [开发是妈妈、产品经理是爸爸、测试是医生、产品是孩子](http://www.testwo.com/article/387)  
 [the-present-and-future-of-manual-testing](http://blog.utest.com/2015/07/14/the-present-and-future-of-manual-testing/)  
+[内测的那些事](http://www.jianshu.com/p/aa47959365ab#)  
+[Just Say No to More End-to-End Tests(译文)](http://testerhome.com/topics/2457)  
+[通往测试架构师之路（转载）](http://www.taobaotest.com/blogs/2553)  
+[如果软件测试是门艺术，软件测试工程师就是艺术家 －－ 浅析ZStack是如何做智能软件测试](http://mp.weixin.qq.com/s?__biz=MzA4MDQyMDY5OQ==&mid=210641905&idx=1&sn=030ea6052c12030867f8395f3a790e60&scene=2&from=timeline&isappinstalled=0#rd)  
+[团队协作的秘诀：为什么小团队效率更高？](http://www.51testing.com/html/51/n-3171551.html)  
+
 
 
 
