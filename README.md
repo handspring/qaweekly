@@ -36,9 +36,11 @@ QA周刊分类整理-201508<br />
 [2015苹果全球开发者大会（WWDC 2015）](http://tech.163.com/special/wwdc2015/)   
 [Go1.5 发布说明](https://github.com/meilihao/TranslateProject/blob/master/201507%20Go%201.5%20Release%20Notes.md)   
 [移动安全顶级峰会揭露主流智能手机系统重大安全隐患： 小小输入法升级？6亿Galaxy 智能手机却可能沦为肉鸡](http://blog.utest.com/2015/06/19/worst-week-ever-major-security-flaws-hit-iphone-and-galaxy-smartphones/)     
-[百度众测-基于众包的O2O服务质量保证](http://www.infoq.com/cn/presentations/o2o-service-quality-assurance-based-on-crowdsourcing)
-[2014年第八届中国软件测试现状调查报告](http://download.51testing.com/ddimg/uploadsoft/20150623/2014_tester_report.pdf)
-
+[百度众测-基于众包的O2O服务质量保证](http://www.infoq.com/cn/presentations/o2o-service-quality-assurance-based-on-crowdsourcing)  
+[2014年第八届中国软件测试现状调查报告](http://download.51testing.com/ddimg/uploadsoft/20150623/2014_tester_report.pdf)  
+[为何docker还未一统天下 ](http://sirupsen.com/production-docker/)  
+[从360手机卫士的开发历程看如何实施大型移动应用开发 ](http://www.infoq.com/cn/presentations/from-360-development-see-big-mobile-application-development)  
+[Git 2.5增加了工作树、改进了三角工作流、性能等诸多方面 ](http://www.infoq.com/cn/news/2015/08/git-25-released)  
 
 <a name="TEST"></a>
 ##测试思维
@@ -60,12 +62,12 @@ QA周刊分类整理-201508<br />
 [软件缺陷的有效管理](http://insights.thoughtworkers.org/defect-management/)   
 [移动测试人员的未来：测试开发技术的融合](http://www.infoq.com/cn/articles/mobile-testing-future?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage)      
 [算法、技术及其他 ](http://www.cnblogs.com/aquastone/p/algorithm-technology-and-others.html)   
-[James Whittaker：经营成功的测试职业生涯 ](http://blog.jobbole.com/74611/)
-[从测试人员的角度看敏捷中的障碍](http://www.testwo.com/article/436)
-[如何有效地报告bug](http://www.cocoachina.com/programmer/20150626/12284.html)
-[通过心理学知识提高问题定位与解决能力](http://kb.cnblogs.com/page/522261/)
-[你的敏捷用对了吗？](http://chuansong.me/n/1600022)
-[一种基于存储过程的复杂计算功能测试方法](http://qa.baidu.com/blog/?p=897)
+[James Whittaker：经营成功的测试职业生涯 ](http://blog.jobbole.com/74611/)  
+[从测试人员的角度看敏捷中的障碍](http://www.testwo.com/article/436)  
+[如何有效地报告bug](http://www.cocoachina.com/programmer/20150626/12284.html)  
+[通过心理学知识提高问题定位与解决能力](http://kb.cnblogs.com/page/522261/)  
+[你的敏捷用对了吗？](http://chuansong.me/n/1600022)  
+[一种基于存储过程的复杂计算功能测试方法](http://qa.baidu.com/blog/?p=897)  
 
 
 <a name="BASIC"></a>
@@ -84,10 +86,13 @@ QA周刊分类整理-201508<br />
 [XebiaLabs TestView整合了多种测试工具](http://www.infoq.com/cn/news/2015/07/xebialabs-testview)  
 [工具篇：腾讯的移动质量跟踪平台](http://bugly.qq.com/)  
 [10个免费的服务器监控工具](http://blog.jobbole.com/88115/)  
-[SonarQube 3.6 代码质量管理实战](http://www.uml.org.cn/rjzl/201507213.asp)
+[SonarQube 3.6 代码质量管理实战](http://www.uml.org.cn/rjzl/201507213.asp)  
 [GitHub项目的同行审查自动化工具 ](http://www.infoq.com/cn/news/2015/07/github-code-review-bot)  
-[一些命令行效率工具 ](http://wulfric.me/2015/08/zsh/)
-[9款免费且超实用的响应式网页测试工具](http://www.uisdc.com/9-free-responsiveness-testing-tools)
+[一些命令行效率工具 ](http://wulfric.me/2015/08/zsh/)  
+[9款免费且超实用的响应式网页测试工具](http://www.uisdc.com/9-free-responsiveness-testing-tools)  
+[Android UI 自动化测试的代码覆盖率 ](https://testerhome.com/topics/2501)  
+[使用Spock框架进行单元测试 ](http://blog.2baxb.me/archives/1398)  
+[Sixpack-java：用于Android和Java应用的A/B测试工具 ](http://www.infoq.com/cn/news/2015/08/Sixpack-java)
 
 <a name="AUTOTEST"></a>
 ##自动化测试
@@ -101,7 +106,7 @@ QA周刊分类整理-201508<br />
 [接口测试总结](blog.sina.com.cn/s/blog_6e0d94750102vjqf.html)  
 [What are Unit Testing, Integration Testing and Functional Testing?](http://codeutopia.net/blog/2015/04/11/what-are-unit-testing-integration-testing-and-functional-testing/)  
 [在CI中实现持续Web安全扫描](http://www.infoq.com/cn/articles/WebScan-CI)  
-[当谈论覆盖率时我们在谈什么](http://liguanglei.name/blogs/2015/06/01/code-coverage-vs-test-coverage/)  
+[当谈论覆盖率时我们在谈什么](http://liguanglei.name/blogs/2015/06/01/code-coverage-vs-test-coverage/)   
 
 
 <a name="CI"></a>
@@ -109,11 +114,11 @@ QA周刊分类整理-201508<br />
 [Build To Win ](http://zhuanlan.zhihu.com/goujianzhifa/20003750)  
 [基于Docker整合开发测试环境, 是不是每个测试人员应该梦想有一套这样的环境？](http://dockone.io/article/342)    
 [持续测试的益处](http://www.infoq.com/cn/news/2015/05/benefits-continuous-testing)  
-[Jenkins User Conference 2015](https://www.cloudbees.com/jenkins/juc-2015/)
-[Docker持续部署图文详解 ](http://www.infoq.com/cn/articles/effective-ops-part-06)   
-[针对gitlab Merge Request跑jenkins测试](http://louiseyang.github.io/blog/2015/03/26/zhen-dui-gitlab-merge-requestpao-jenkinsce-shi/)
-[“持续集成”也需要重构------持续集成实践在Cruise开发过程中的演进](http://www.testwo.com/article/434)
-[持续集成和“云”](http://dockone.io/article/470)
+[Jenkins User Conference 2015](https://www.cloudbees.com/jenkins/juc-2015/)  
+[Docker持续部署图文详解 ](http://www.infoq.com/cn/articles/effective-ops-part-06)  
+[针对gitlab Merge Request跑jenkins测试](http://louiseyang.github.io/blog/2015/03/26/zhen-dui-gitlab-merge-requestpao-jenkinsce-shi/)  
+[“持续集成”也需要重构------持续集成实践在Cruise开发过程中的演进](http://www.testwo.com/article/434)  
+[持续集成和“云”](http://dockone.io/article/470)  
 
 
 <a name="WEBTEST"></a>
@@ -126,11 +131,11 @@ QA周刊分类整理-201508<br />
 [谷歌Web开发技术变迁史与踩坑史](http://36kr.com/p/533342.html?utm_source=site_search)  
 [【web测试】你必须验证的检查点](http://www.sogouqa.com/2015/05/14/%e3%80%90web%e6%b5%8b%e8%af%95%e3%80%91%e4%bd%a0%e5%bf%85%e9%a1%bb%e9%aa%8c%e8%af%81%e7%9a%84%e6%a3%80%e6%9f%a5%e7%82%b9/?utm_source=tuicool)  
 [七牛前端测试实践](http://weibo.com/p/1001603864951990185052?sudaref=toutiao.io)  
-[使用Selenium测试时必需知道的7件事](http://www.infoq.com/cn/news/2015/07/selenium-7things)
-[成为一名优秀的Web前端开发者](http://www.infoq.com/cn/news/2015/08/great-front-end-developer)
-[Web前端技术栈](https://github.com/unruledboy/WebFrontEndStack)
-[Moco 框架以及其在 Web 集成测试的应用](http://www.uml.org.cn/Test/201508043.asp)
-[用猫咪图片来记忆HTTP状态码](http://blog.jobbole.com/88450/)
+[使用Selenium测试时必需知道的7件事](http://www.infoq.com/cn/news/2015/07/selenium-7things)  
+[成为一名优秀的Web前端开发者](http://www.infoq.com/cn/news/2015/08/great-front-end-developer)  
+[Web前端技术栈](https://github.com/unruledboy/WebFrontEndStack)  
+[Moco 框架以及其在 Web 集成测试的应用](http://www.uml.org.cn/Test/201508043.asp)  
+[用猫咪图片来记忆HTTP状态码](http://blog.jobbole.com/88450/)  
 
 
 <a name="MOBILETEST"></a>
@@ -151,12 +156,12 @@ QA周刊分类整理-201508<br />
 [WWDC15 Session笔记 - iOS 9 多任务分屏要点](http://www.cocoachina.com/apple/20150618/12169.html)   
 [检测和解决Android应用的性能问题](http://www.csdn.net/article/2015-07-27/2825310/1)   
 [Android内存使用分析和程序性能分析 ](http://www.liaohuqiu.net/cn/posts/memory-and-profile-analysis-in-android/)   
-[在Android Studio中使用Roboletric和Espresso ](http://codethink.me/2015/05/27/use-robolectric-with-espresso-in-android-studio/)
-[Android应用性能评测调优](http://www.csdn.net/article/2015-06-12/2824949)
-[如何在ios应用开发中提高滚屏的性能](https://code.facebook.com/posts/456535491190613?__tn__=H)
-[国内移动测试服务盘点](http://www.infoq.com/cn/news/2015/06/mobile-testing-service)
-[小强的HTML5移动开发之路](http://blog.csdn.net/column/details/dawanganban-html5.html)
-[How to Use Instruments in Xcode](http://www.raywenderlich.com/23037/how-to-use-instruments-in-xcode)
+[在Android Studio中使用Roboletric和Espresso ](http://codethink.me/2015/05/27/use-robolectric-with-espresso-in-android-studio/)  
+[Android应用性能评测调优](http://www.csdn.net/article/2015-06-12/2824949)  
+[如何在ios应用开发中提高滚屏的性能](https://code.facebook.com/posts/456535491190613?__tn__=H)  
+[国内移动测试服务盘点](http://www.infoq.com/cn/news/2015/06/mobile-testing-service)  
+[小强的HTML5移动开发之路](http://blog.csdn.net/column/details/dawanganban-html5.html)  
+[How to Use Instruments in Xcode](http://www.raywenderlich.com/23037/how-to-use-instruments-in-xcode)  
 
 
 <a name="PERFORMANCETEST"></a>
@@ -172,14 +177,16 @@ QA周刊分类整理-201508<br />
 [你可能不知道的jprofiler使用小贴士](http://ks.netease.com/blog?id=2198)  
 [Web性能API——帮你分析Web前端性能](http://www.infoq.com/cn/news/2015/06/web-performance-api)  
 [NoSQL性能测试白皮书](http://www.infoq.com/cn/articles/nosql-performance-test)    
-[Performance Tuning Technique: 几个角度](http://liguanglei.name/blogs/2012/03/11/performance-tuning-technique/)	  
+[Performance Tuning Technique: 几个角度](http://liguanglei.name/blogs/2012/03/11/performance-tuning-technique/)  
 [web性能优化：what？why？how](http://www.cnblogs.com/dojo-lzz/p/4591446.html)   
 [如何生成每秒百万级别的 HTTP 请求](http://blog.jobbole.com/87509/)   
 [参数调优：合理设置线程池，将Nginx性能提升9倍](http://nginx.com/blog/thread-pools-boost-performance-9x/)  
 [谁在关心toString的性能？ ](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=207724610&idx=1&sn=da9d46842c9d96952f82e8029a60b899&key=0acd51d81cb052bc17432249dcf7f882e65fb552fd82f26f6d33b79b8bb11b32c9596087dd9d66ef5eab0b504db6507b&ascene=1&uin=MjU1NDA4Mjk1&devicetype=Windows+7&version=61020019&pass_ticket=%2BwUQkVnBradxyFD98eb4WO2wDkJZgA64e5Pj2wxzN2M%3D)  
 [腾讯游戏如何使用Docker？ ](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=208808439&idx=1&sn=04824ac4c161981d31ee0b02191f28bb&scene=1&srcid=O8tvzXkBHsmwuRlXF6VL&key=dffc561732c22651e96c3ec7c2a3ec46de033289d71e82192ac9aa2156d48c9b4c815deb3d0aa26af55e89bd84055d98&ascene=1&uin=MjU1NDA4Mjk1&devicetype=Windows+7&version=6102002a&pass_ticket=yITCUaUbUCFFrZOk98MTFoL2dfVYWyvog5cREU1nL18%3D)  
 [Java内存问题 ](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=207945653&idx=1&sn=9e300f05d20de8dcccdb8c739d6e2422&scene=1&srcid=uFL9E08mmgatx5DVye0N&key=dffc561732c22651cbc40adf49e81520c14987540f04c83255e5c251102748d16bcc9fe9765308c75f71c873a4d451e5&ascene=1&uin=MjU1NDA4Mjk1&devicetype=Windows+7&version=6102002a&pass_ticket=yITCUaUbUCFFrZOk98MTFoL2dfVYWyvog5cREU1nL18%3D)
-[为最佳性能调优Nginx](http://mp.weixin.qq.com/s?__biz=MjM5MTM0NjQ2MQ==&mid=210898312&idx=1&sn=05cfc9b0df0c5816d01db4c15f334cea&scene=1&key=0acd51d81cb052bc4576ecbb18611c9b50fc723d166977da7cee736c2a6339ebf313a9bea76d34afcb9487f544ef21ae&ascene=1&uin=MjU1NDA4Mjk1&devicetype=Windows+7&version=61020019&pass_ticket=jj%2F9wKidZkP23mS63oaHQENez0M82F%2BiAW3UXkLGwig%3D)
+[为最佳性能调优Nginx](http://mp.weixin.qq.com/s?__biz=MjM5MTM0NjQ2MQ==&mid=210898312&idx=1&sn=05cfc9b0df0c5816d01db4c15f334cea&scene=1&key=0acd51d81cb052bc4576ecbb18611c9b50fc723d166977da7cee736c2a6339ebf313a9bea76d34afcb9487f544ef21ae&ascene=1&uin=MjU1NDA4Mjk1&devicetype=Windows+7&version=61020019&pass_ticket=jj%2F9wKidZkP23mS63oaHQENez0M82F%2BiAW3UXkLGwig%3D)  
+[高性能Tomcat：漫谈行走在sendfile之上的Tomcat ](http://jvmplus.duapp.com/blog/view/B143878703)  
+[如何彻底解决 "网络延迟 "这个根本性的问题？](http://www.zhihu.com/question/34689035/answer/59675675?utm_source=weibo&utm_medium=weibo_share&utm_content=share_answer&utm_campaign=share_button)
 
 
 <a name="SECURITYTEST"></a>
@@ -200,6 +207,7 @@ QA周刊分类整理-201508<br />
 [Gradle Android Plugin 使用手册（中文版）](http://chaosleong.gitbooks.io/gradle-for-android/content/)  
 [STF 框架之 minicap 工具 ](https://testerhome.com/topics/3115)  
 [WEB 端批量移动设备管理控制工具STF的环境搭建和运行 ](https://testerhome.com/topics/2988)  
+[Maven 那点事儿 ](http://my.oschina.net/huangyong/blog/194583)
 
 <a name="TOPICS"></a>
 ##话题
