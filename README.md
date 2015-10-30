@@ -75,7 +75,9 @@ QA周刊分类整理-201508<br />
 [一大波平台来袭，可用性测试怎么破](http://isux.tencent.com/usability-test-of-multi-platform.html)  
 [手机淘宝高质量持续交付探索之路](http://www.testwo.com/article/379)  
 [探索式测试实践之缺陷大扫除和结对测试](http://blog.sina.com.cn/s/blog_6cf812be01012h6l.html#bsh-161-314253713)  
-[How To Write Effective Test Cases and Procedures?](http://www.softwaretestingclass.com/how-to-write-effective-test-cases-and-procedures/?utm_source=tuicool)  
+[How To Write Effective Test Cases and Procedures?](http://www.softwaretestingclass.com/how-to-write-effective-test-cases-and-procedures/?utm_source=tuicool) 
+[58同城沈剑：好的架构是进化来的，不是设计来的 ](http://news.oneapm.com/shenjian-oneapm-course/)
+[界面之下：还原真实的MV*模式](https://github.com/livoras/blog/issues/11)
 
 <a name="BASIC"></a>
 ##基础知识 
@@ -87,6 +89,8 @@ QA周刊分类整理-201508<br />
 [基础篇：究竟什么是敏捷测试](http://www.testtao.com/article-15694-1.html)   
 [基础篇：猴子都能懂的 Git 入门](http://backlogtool.com/git-guide/cn/)  
 [基础篇：GIT分支管理是一门艺术](http://roclinux.cn/?p=2129)  
+[讲点python基础知识](http://segmentfault.com/a/1190000003887422)
+[前端入门方法总结](http://gold.xitu.io/entry/562ed6f160b20bd5e401e800)
  
 <a name="TESTTOOLS"></a>
 ##测试工具
@@ -151,6 +155,7 @@ QA周刊分类整理-201508<br />
 [估计很难有比代码改进更不受团队欢迎的事](http://www.newsmth.net/bbstcon.php?board=SoftEng&gid=88109&start=88109&pno=1)  
 [专访阿里巴巴毕玄：异地多活数据中心项目的来龙去脉](http://www.infoq.com/cn/articles/interview-alibaba-bixuan)   
 [当你在浏览器中输入Google.com并且按下回车之后发生了什么？ ](http://blog.jobbole.com/84870/)  
+[浏览器利用框架BeEF测试](http://drops.wooyun.org/tips/9929)
 
 
 <a name="MOBILETEST"></a>
@@ -181,7 +186,9 @@ QA周刊分类整理-201508<br />
 [Google的Android性能模式](http://www.infoq.com/cn/news/2015/01/google-android-performance)  
 [深入探讨Chrome iOS版测试及发布流程](http://www.infoq.com/cn/articles/testing-releasing-chrome-ios)  
 [在Android Studio中进行单元测试和UI测试](http://www.jianshu.com/p/03118c11c199)  
-[12 Best Mobile App Testing Frameworks 的简单了解](https://testerhome.com/topics/2416)   
+[12 Best Mobile App Testing Frameworks 的简单了解](https://testerhome.com/topics/2416)  
+[手机淘宝性能优化](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=203376980&idx=1&sn=eabbaa3ab4a4660d39361f92ee4ef3f5&scene=18&scene=5&srcid=10275GQZvsW7RegbPnyKxo4O#rd)
+[【2015 SACC】手机淘宝性能优化全记录](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=400169977&idx=1&sn=02881324b62e11adca3a43bc57ddd623&scene=5&srcid=1026xBvxM66LBwoX4g7HAAtD#rd)
 
 
 <a name="PERFORMANCETEST"></a>
@@ -245,7 +252,8 @@ QA周刊分类整理-201508<br />
 [the-present-and-future-of-manual-testing](http://blog.utest.com/2015/07/14/the-present-and-future-of-manual-testing/)  
 [有的人喜欢创造世界，他们做了程序员；有的人喜欢拯救世界，他们做了测试员](http://www.zhihu.com/question/20269633)  
 [如果软件测试是门艺术，软件测试工程师就是艺术家 －－ 浅析ZStack是如何做智能软件测试](http://mp.weixin.qq.com/s?__biz=MzA4MDQyMDY5OQ==&mid=210641905&idx=1&sn=030ea6052c12030867f8395f3a790e60&scene=2&from=timeline&isappinstalled=0#rd)  
-
+[易评: bug丛生 苹果软件部门肿么了](http://tech.163.com/15/1024/08/B6M917JQ000915BD.html)
+[一共30个！你不得不看的3D Touch使用技巧](http://mt.sohu.com/20151021/n423756358.shtml)
 
 
 
