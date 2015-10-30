@@ -75,9 +75,9 @@ QA周刊分类整理-201508<br />
 [一大波平台来袭，可用性测试怎么破](http://isux.tencent.com/usability-test-of-multi-platform.html)  
 [手机淘宝高质量持续交付探索之路](http://www.testwo.com/article/379)  
 [探索式测试实践之缺陷大扫除和结对测试](http://blog.sina.com.cn/s/blog_6cf812be01012h6l.html#bsh-161-314253713)  
-[How To Write Effective Test Cases and Procedures?](http://www.softwaretestingclass.com/how-to-write-effective-test-cases-and-procedures/?utm_source=tuicool) 
-[58同城沈剑：好的架构是进化来的，不是设计来的 ](http://news.oneapm.com/shenjian-oneapm-course/)
-[界面之下：还原真实的MV*模式](https://github.com/livoras/blog/issues/11)
+[How To Write Effective Test Cases and Procedures?](http://www.softwaretestingclass.com/how-to-write-effective-test-cases-and-procedures/?utm_source=tuicool)  
+[58同城沈剑：好的架构是进化来的，不是设计来的 ](http://news.oneapm.com/shenjian-oneapm-course/) 
+[界面之下：还原真实的MV*模式](https://github.com/livoras/blog/issues/11) 
 
 <a name="BASIC"></a>
 ##基础知识 
