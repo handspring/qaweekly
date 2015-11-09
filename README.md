@@ -121,7 +121,7 @@ QA周刊分类整理-201508<br />
 
 <a name="AUTOTEST"></a>
 ##自动化测试
-[接口测试总结](blog.sina.com.cn/s/blog_6e0d94750102vjqf.html)  
+[接口测试总结](http://blog.sina.com.cn/s/blog_6e0d94750102vjqf.html)  
 [前端自动化测试探索 ](http://fex.baidu.com/blog/2015/07/front-end-test/)  
 [iOS9 UI Tests探索笔记 ](http://blog.csdn.net/zhao18933/article/details/46621999)  
 [自动化测试: 策略及工具 ](http://liguanglei.name/blogs/2014/09/05/automation-test-strategy-and-tools/)   
