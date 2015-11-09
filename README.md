@@ -45,7 +45,10 @@ QA周刊分类整理-201508<br />
 [Facebook开源静态代码检查工具Infer](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)  
 [特殊字符的威力：分分钟搞瘫iOS message & Skype](http://blog.utest.com/2015/06/05/skype-and-iphone-messages-are-having-a-bad-week//)  
 [Appium中国行分享总结：当测试遇上机器人](http://www.infoq.com/cn/news/2015/07/mtsc-appium)   
-[移动安全顶级峰会揭露主流智能手机系统重大安全隐患： 小小输入法升级？6亿Galaxy 智能手机却可能沦为肉鸡](http://blog.utest.com/2015/06/19/worst-week-ever-major-security-flaws-hit-iphone-and-galaxy-smartphones/)
+[移动安全顶级峰会揭露主流智能手机系统重大安全隐患： 小小输入法升级？6亿Galaxy 智能手机却可能沦为肉鸡](http://blog.utest.com/2015/06/19/worst-week-ever-major-security-flaws-hit-iphone-and-galaxy-smartphones/)  
+[比葫芦娃还可怕的百度全系APP SDK漏洞 - WormHole虫洞漏洞分析报告](http://blog.jobbole.com/93923/)    
+[为何你的iOS应用审核总是被拒，先看15个被拒纬度分析 《腾讯互娱iOS预审团队》](http://mp.weixin.qq.com/s?__biz=MjM5NTQ5MjIyMA==&mid=400574641&idx=3&sn=64671b7d6c0fdeb1e8b01bdccd53f628&scene=1&srcid=1101oa2xYpojq7wfmuDLeTzr&uin=MzgxNTY4NQ%3D%3D&key=04dce534b3b035ef1501cd16a431a196a094b724bb3ac2bb67318946c111c23c152623f3a9c49c6a23ed429caff12609&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.10.1+build%2814B25%29&version=11020201&lang=zh_CN&pass_ticket=wJ3x9Eeq7IaHcNoPVSIRq5Fbh10Og%2F%2FwrYCQAruEK3k%3D)    
+
 
 <a name="TEST"></a>
 ##测试思维
@@ -77,7 +80,10 @@ QA周刊分类整理-201508<br />
 [探索式测试实践之缺陷大扫除和结对测试](http://blog.sina.com.cn/s/blog_6cf812be01012h6l.html#bsh-161-314253713)  
 [How To Write Effective Test Cases and Procedures?](http://www.softwaretestingclass.com/how-to-write-effective-test-cases-and-procedures/?utm_source=tuicool)  
 [58同城沈剑：好的架构是进化来的，不是设计来的 ](http://news.oneapm.com/shenjian-oneapm-course/)  
-[界面之下：还原真实的MV*模式](https://github.com/livoras/blog/issues/11)  
+[界面之下：还原真实的MV*模式](https://github.com/livoras/blog/issues/11)   
+[Uber 背后架构揭秘](http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401167039&idx=1&sn=b9c4a7f4c46e29a8aef89e07ecaf52a2&scene=0#rd)      
+[在实际工作中评估你的工程师伙伴 - 写给非技术向小伙伴的参考](http://gulu-dev.com/post/2015-11-05-tips-for-non-programmers)    
+[被误解的MVC和被神化的MVVM ](http://www.infoq.com/cn/articles/rethinking-mvc-mvvm)    
 
 <a name="BASIC"></a>
 ##基础知识 
@@ -90,7 +96,10 @@ QA周刊分类整理-201508<br />
 [基础篇：猴子都能懂的 Git 入门](http://backlogtool.com/git-guide/cn/)  
 [基础篇：GIT分支管理是一门艺术](http://roclinux.cn/?p=2129)  
 [讲点python基础知识](http://segmentfault.com/a/1190000003887422)  
-[前端入门方法总结](http://gold.xitu.io/entry/562ed6f160b20bd5e401e800)  
+[前端入门方法总结](http://gold.xitu.io/entry/562ed6f160b20bd5e401e800)   
+[Git指令大全图](http://www.colorfulcat.xyz/2015/09/06/git-command/)    
+[testng.xml文件结构组成及节点属性说明](http://blog.csdn.net/five3/article/details/25907693)   
+[Java API 快速速查宝典](http://www.cnblogs.com/liuhongfeng/p/4806871.html)   
  
 <a name="TESTTOOLS"></a>
 ##测试工具
@@ -155,7 +164,8 @@ QA周刊分类整理-201508<br />
 [估计很难有比代码改进更不受团队欢迎的事](http://www.newsmth.net/bbstcon.php?board=SoftEng&gid=88109&start=88109&pno=1)  
 [专访阿里巴巴毕玄：异地多活数据中心项目的来龙去脉](http://www.infoq.com/cn/articles/interview-alibaba-bixuan)   
 [当你在浏览器中输入Google.com并且按下回车之后发生了什么？ ](http://blog.jobbole.com/84870/)  
-[浏览器利用框架BeEF测试](http://drops.wooyun.org/tips/9929)
+[浏览器利用框架BeEF测试](http://drops.wooyun.org/tips/9929)   
+[WEB开发者应该有哪些必备的技能？](http://info.9iphp.com/essential-skills-every-web-developer-should-have/)  
 
 
 <a name="MOBILETEST"></a>
@@ -188,7 +198,12 @@ QA周刊分类整理-201508<br />
 [在Android Studio中进行单元测试和UI测试](http://www.jianshu.com/p/03118c11c199)  
 [12 Best Mobile App Testing Frameworks 的简单了解](https://testerhome.com/topics/2416)  
 [手机淘宝性能优化](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=203376980&idx=1&sn=eabbaa3ab4a4660d39361f92ee4ef3f5&scene=18&scene=5&srcid=10275GQZvsW7RegbPnyKxo4O#rd)  
-[【2015 SACC】手机淘宝性能优化全记录](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=400169977&idx=1&sn=02881324b62e11adca3a43bc57ddd623&scene=5&srcid=1026xBvxM66LBwoX4g7HAAtD#rd)
+[【2015 SACC】手机淘宝性能优化全记录](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=400169977&idx=1&sn=02881324b62e11adca3a43bc57ddd623&scene=5&srcid=1026xBvxM66LBwoX4g7HAAtD#rd)   
+[Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)    
+[Android UI：机智的远程动态更新策略](http://bugly.qq.com/blog/?p=732)    
+[Android 性能专项之 Memory Monitor 工具](http://www.testwo.com/article/518)    
+[移动端图片格式调研](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)    
+
 
 
 <a name="PERFORMANCETEST"></a>
