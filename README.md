@@ -262,7 +262,7 @@ QA周刊分类整理-201508<br />
 [WEB 端批量移动设备管理控制工具STF的环境搭建和运行 ](https://testerhome.com/topics/2988)  
 [通过大量测试来构建测试系统 ](http://www.infoq.com/cn/news/2015/12/testing-nest-tests)
 [微信抢红包插件 ](https://github.com/geeeeeeeeek/WeChatLuckyMoney)
-[从0到N，百度云的精益质量保障 ]((https://www.infoq.com/cn/articles/baiduyun-qa-part1)
+[从0到N，百度云的精益质量保障 ](https://www.infoq.com/cn/articles/baiduyun-qa-part1)
 
 <a name="TOPICS"></a>
 ##话题
