@@ -47,7 +47,8 @@ QA周刊分类整理-201508<br />
 [Appium中国行分享总结：当测试遇上机器人](http://www.infoq.com/cn/news/2015/07/mtsc-appium)   
 [移动安全顶级峰会揭露主流智能手机系统重大安全隐患： 小小输入法升级？6亿Galaxy 智能手机却可能沦为肉鸡](http://blog.utest.com/2015/06/19/worst-week-ever-major-security-flaws-hit-iphone-and-galaxy-smartphones/)  
 [比葫芦娃还可怕的百度全系APP SDK漏洞 - WormHole虫洞漏洞分析报告](http://blog.jobbole.com/93923/)    
-[为何你的iOS应用审核总是被拒，先看15个被拒纬度分析 《腾讯互娱iOS预审团队》](http://mp.weixin.qq.com/s?__biz=MjM5NTQ5MjIyMA==&mid=400574641&idx=3&sn=64671b7d6c0fdeb1e8b01bdccd53f628&scene=1&srcid=1101oa2xYpojq7wfmuDLeTzr&uin=MzgxNTY4NQ%3D%3D&key=04dce534b3b035ef1501cd16a431a196a094b724bb3ac2bb67318946c111c23c152623f3a9c49c6a23ed429caff12609&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.10.1+build%2814B25%29&version=11020201&lang=zh_CN&pass_ticket=wJ3x9Eeq7IaHcNoPVSIRq5Fbh10Og%2F%2FwrYCQAruEK3k%3D)    
+[为何你的iOS应用审核总是被拒，先看15个被拒纬度分析 《腾讯互娱iOS预审团队》](http://mp.weixin.qq.com/s?__biz=MjM5NTQ5MjIyMA==&mid=400574641&idx=3&sn=64671b7d6c0fdeb1e8b01bdccd53f628&scene=1&srcid=1101oa2xYpojq7wfmuDLeTzr&uin=MzgxNTY4NQ%3D%3D&key=04dce534b3b035ef1501cd16a431a196a094b724bb3ac2bb67318946c111c23c152623f3a9c49c6a23ed429caff12609&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.10.1+build%2814B25%29&version=11020201&lang=zh_CN&pass_ticket=wJ3x9Eeq7IaHcNoPVSIRq5Fbh10Og%2F%2FwrYCQAruEK3k%3D)  
+[Firebug与DevTools整合](http://www.infoq.com/cn/news/2015/12/firebug-devtools) 
 
 
 <a name="TEST"></a>
@@ -100,6 +101,7 @@ QA周刊分类整理-201508<br />
 [Git指令大全图](http://www.colorfulcat.xyz/2015/09/06/git-command/)    
 [testng.xml文件结构组成及节点属性说明](http://blog.csdn.net/five3/article/details/25907693)   
 [Java API 快速速查宝典](http://www.cnblogs.com/liuhongfeng/p/4806871.html)   
+[全程软件测试之测试需求分析与计划](http://www.uml.org.cn/Test/201512021.asp) 
  
 <a name="TESTTOOLS"></a>
 ##测试工具
@@ -134,6 +136,7 @@ QA周刊分类整理-201508<br />
 [当谈论覆盖率时我们在谈什么](http://liguanglei.name/blogs/2015/06/01/code-coverage-vs-test-coverage/)   
 [功能测试自动化在敏捷过程中的实践与技术展望](http://doc.hz.netease.com/download/attachments/45191251/%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%E8%87%AA%E5%8A%A8%E5%8C%96%E5%9C%A8%E6%95%8F%E6%8D%B7%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%B1%95%E6%9C%9B.pdf)  
 [What are Unit Testing, Integration Testing and Functional Testing?](http://codeutopia.net/blog/2015/04/11/what-are-unit-testing-integration-testing-and-functional-testing/)  
+[自动化测试中的测试执行自动化](http://www.infoq.com/cn/news/2015/12/automation-testing) 
 
 <a name="CI"></a>
 ##持续集成
@@ -202,7 +205,9 @@ QA周刊分类整理-201508<br />
 [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)    
 [Android UI：机智的远程动态更新策略](http://bugly.qq.com/blog/?p=732)    
 [Android 性能专项之 Memory Monitor 工具](http://www.testwo.com/article/518)    
-[移动端图片格式调研](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)    
+[移动端图片格式调研](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)  
+[代码签名探析](http://objccn.io/issue-17-2/)  
+[Android Studio 2.0引入热代码替换技术](http://www.infoq.com/cn/news/2015/11/android-studio-2)   
 
 
 
@@ -232,14 +237,17 @@ QA周刊分类整理-201508<br />
 [MySQL性能优化的21个最佳实践和MySQL使用索引](http://www.tuicool.com/articles/6NbiYza)  
 [高性能Tomcat：漫谈行走在sendfile之上的Tomcat ](http://jvmplus.duapp.com/blog/view/B143878703)  
 [如何从程序优化的角度解释淘宝支付宝的安卓版卡顿？](http://www.zhihu.com/question/30033704/answer/46615625)  
-[百度运维部：大型网站的HTTPS实践 - HTTPS 对性能的影响](http://op.baidu.com/2015/04/https-s01a02/)  
+[百度运维部：大型网站的HTTPS实践 - HTTPS 对性能的影响](http://op.baidu.com/2015/04/https-s01a02/) 
+[性能探索------我们如何将每个POST请求削减200ms](https://gocardless.com/blog/in-search-of-performance-how-we-shaved-200ms-off-every-post-request/) 
 
 <a name="SECURITYTEST"></a>
 ##安全测试
 [超大Cookie拒绝服务攻击](http://blog.jobbole.com/87394/)  
 [业务安全漏洞挖掘归纳总结 ](http://drops.wooyun.org/web/6917)  
 [“互联网+”时代的移动安全实践](http://www.infoq.com/cn/news/2015/07/mobile-security) 
-[用黑客思维做测试---大型项目安全测试思路分享 ](http://www.taobaotest.com/blogs/2559) 
+[用黑客思维做测试---大型项目安全测试思路分享 ](http://www.taobaotest.com/blogs/2559)
+[Android平台下二维码漏洞攻击杂谈 ](http://drops.wooyun.org/mobile/10775#more-10775)
+
 
 <a name="COURSE"></a>
 ##实用教程
@@ -252,6 +260,9 @@ QA周刊分类整理-201508<br />
 [Gradle Android Plugin 使用手册（中文版）](http://chaosleong.gitbooks.io/gradle-for-android/content/)   
 [工具资料片：Linux 工具速查手册，Linux小白必备！](http://http//linuxtools-rst.readthedocs.org/zh_CN/latest/base/index.html)   
 [WEB 端批量移动设备管理控制工具STF的环境搭建和运行 ](https://testerhome.com/topics/2988)  
+[通过大量测试来构建测试系统 ](http://www.infoq.com/cn/news/2015/12/testing-nest-tests)
+[微信抢红包插件 ](https://github.com/geeeeeeeeek/WeChatLuckyMoney)
+[从0到N，百度云的精益质量保障 ]((https://www.infoq.com/cn/articles/baiduyun-qa-part1)
 
 <a name="TOPICS"></a>
 ##话题
