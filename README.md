@@ -48,8 +48,11 @@ QA周刊分类整理-201508<br />
 [移动安全顶级峰会揭露主流智能手机系统重大安全隐患： 小小输入法升级？6亿Galaxy 智能手机却可能沦为肉鸡](http://blog.utest.com/2015/06/19/worst-week-ever-major-security-flaws-hit-iphone-and-galaxy-smartphones/)  
 [比葫芦娃还可怕的百度全系APP SDK漏洞 - WormHole虫洞漏洞分析报告](http://blog.jobbole.com/93923/)    
 [为何你的iOS应用审核总是被拒，先看15个被拒纬度分析 《腾讯互娱iOS预审团队》](http://mp.weixin.qq.com/s?__biz=MjM5NTQ5MjIyMA==&mid=400574641&idx=3&sn=64671b7d6c0fdeb1e8b01bdccd53f628&scene=1&srcid=1101oa2xYpojq7wfmuDLeTzr&uin=MzgxNTY4NQ%3D%3D&key=04dce534b3b035ef1501cd16a431a196a094b724bb3ac2bb67318946c111c23c152623f3a9c49c6a23ed429caff12609&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.10.1+build%2814B25%29&version=11020201&lang=zh_CN&pass_ticket=wJ3x9Eeq7IaHcNoPVSIRq5Fbh10Og%2F%2FwrYCQAruEK3k%3D)  
-[Firebug与DevTools整合](http://www.infoq.com/cn/news/2015/12/firebug-devtools) 
+[Firebug与DevTools整合](http://www.infoq.com/cn/news/2015/12/firebug-devtools)
 
+[听“咱们屯里的人”讲啥是托管云！](http://mp.weixin.qq.com/s?__biz=MzA5MjA2MjgyNg==&mid=401289655&idx=1&sn=02e2edf96c6921cc3600735f2f2c82a1&scene=1&srcid=1224AQDq63ixE83Ns05Qh73F#wechat_redirect)
+
+[一款互联网产品从想法到实现的全过程](http://mp.weixin.qq.com/s?__biz=MzAxNzY1NjQ1OA==&mid=400694578&idx=4&sn=c4641c3aa7feb0e773e033612e536926&scene=23&srcid=1221j6dy5lxqoNaKD6ZFe6kA#rd)
 
 <a name="TEST"></a>
 ##测试思维
@@ -84,7 +87,11 @@ QA周刊分类整理-201508<br />
 [界面之下：还原真实的MV*模式](https://github.com/livoras/blog/issues/11)   
 [Uber 背后架构揭秘](http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=401167039&idx=1&sn=b9c4a7f4c46e29a8aef89e07ecaf52a2&scene=0#rd)      
 [在实际工作中评估你的工程师伙伴 - 写给非技术向小伙伴的参考](http://gulu-dev.com/post/2015-11-05-tips-for-non-programmers)    
-[被误解的MVC和被神化的MVVM ](http://www.infoq.com/cn/articles/rethinking-mvc-mvvm)    
+[被误解的MVC和被神化的MVVM ](http://www.infoq.com/cn/articles/rethinking-mvc-mvvm)
+
+[你是否应该成为一名全栈工程师？](http://www.infoq.com/cn/news/2016/01/become-full-stack-developer)
+
+[话说移动测试项的那些事－－完结篇](https://testerhome.com/topics/3969)
 
 <a name="BASIC"></a>
 ##基础知识 
@@ -101,7 +108,9 @@ QA周刊分类整理-201508<br />
 [Git指令大全图](http://www.colorfulcat.xyz/2015/09/06/git-command/)    
 [testng.xml文件结构组成及节点属性说明](http://blog.csdn.net/five3/article/details/25907693)   
 [Java API 快速速查宝典](http://www.cnblogs.com/liuhongfeng/p/4806871.html)   
-[全程软件测试之测试需求分析与计划](http://www.uml.org.cn/Test/201512021.asp) 
+[全程软件测试之测试需求分析与计划](http://www.uml.org.cn/Test/201512021.asp)
+
+[关于启用 HTTPS 的一些经验分享系列](https://imququ.com/post/sth-about-switch-to-https.html)
  
 <a name="TESTTOOLS"></a>
 ##测试工具
@@ -117,8 +126,11 @@ QA周刊分类整理-201508<br />
 [9款免费且超实用的响应式网页测试工具](http://www.uisdc.com/9-free-responsiveness-testing-tools)  
 [XebiaLabs TestView整合了多种测试工具](http://www.infoq.com/cn/news/2015/07/xebialabs-testview)  
 [Sixpack-java：用于Android和Java应用的A/B测试工具 ](http://www.infoq.com/cn/news/2015/08/Sixpack-java)  
-[WEB 端批量移动设备管理控制工具 STF 的环境搭建和运行](https://testerhome.com/topics/2988)  
+[WEB 端批量移动设备管理控制工具 STF 的环境搭建和运行](https://testerhome.com/topics/2988)
 
+[12篇技术干货：阿里云、微博、搜索、美团、美丽说、推荐、小米、支付宝…](http://www.hollischuang.com/archives/980)
+
+[Android 的开发者选项里有哪些实用的功能？](https://www.zhihu.com/question/29967530)
 
 
 <a name="AUTOTEST"></a>
@@ -136,7 +148,9 @@ QA周刊分类整理-201508<br />
 [当谈论覆盖率时我们在谈什么](http://liguanglei.name/blogs/2015/06/01/code-coverage-vs-test-coverage/)   
 [功能测试自动化在敏捷过程中的实践与技术展望](http://doc.hz.netease.com/download/attachments/45191251/%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%E8%87%AA%E5%8A%A8%E5%8C%96%E5%9C%A8%E6%95%8F%E6%8D%B7%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%B1%95%E6%9C%9B.pdf)  
 [What are Unit Testing, Integration Testing and Functional Testing?](http://codeutopia.net/blog/2015/04/11/what-are-unit-testing-integration-testing-and-functional-testing/)  
-[自动化测试中的测试执行自动化](http://www.infoq.com/cn/news/2015/12/automation-testing) 
+[自动化测试中的测试执行自动化](http://www.infoq.com/cn/news/2015/12/automation-testing)
+
+[开发测试自动化脚本以及自动化框架](http://www.infoq.com/cn/articles/test-scripts-frameworks)
 
 <a name="CI"></a>
 ##持续集成
@@ -149,7 +163,9 @@ QA周刊分类整理-201508<br />
 [蚂蚁金服AQC持续集成平台漫谈](http://www.oktest.me/site/article/3143.html)  
 [针对gitlab Merge Request跑jenkins测试](http://louiseyang.github.io/blog/2015/03/26/zhen-dui-gitlab-merge-requestpao-jenkinsce-shi/)  
 [“持续集成”也需要重构------持续集成实践在Cruise开发过程中的演进](http://www.testwo.com/article/434)  
-[基于Docker整合开发测试环境, 是不是每个测试人员应该梦想有一套这样的环境？](http://dockone.io/article/342) 
+[基于Docker整合开发测试环境, 是不是每个测试人员应该梦想有一套这样的环境？](http://dockone.io/article/342)
+
+iOS持续集成基础之xcodebuild命令行打包[（1）](http://www.matrixprojects.net/p/watchkit-command-line-builds/)[（2）](http://www.matrixprojects.net/p/xcodebuild-export-options-plist/)
 
 <a name="WEBTEST"></a>
 ##WEB测试
